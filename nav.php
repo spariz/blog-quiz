@@ -26,7 +26,6 @@ button {
         <li><a href="signup.php">Sign up</a></li>
         <li><a href="login.php">login</a></li>
         <li><a href="logout.php">logout</a></li>
-        <li><a href="create.php">Admin</a></li>
-        
+        <li><a href="post.php">Post</a></li>
     </ul>
 </nav>
